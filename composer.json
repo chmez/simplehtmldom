@@ -1,0 +1,5 @@
+{
+  "name": "chmez/simplehtmldom",
+  "description": "A copy of the PHP Simple HTML DOM Parser project.",
+  "type": "drupal-library"
+}
