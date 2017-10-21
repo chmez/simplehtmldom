@@ -1,5 +1,11 @@
 {
-  "name": "chmez/simplehtmldom",
-  "description": "A copy of the PHP Simple HTML DOM Parser project.",
-  "type": "drupal-library"
+    "name": "chmez/simplehtmldom",
+    "description": "A copy of the PHP Simple HTML DOM Parser project.",
+    "keywords": ["simple_html_dom", "parser"],
+    "homepage" : "http://simplehtmldom.sourceforge.net/",
+    "type": "drupal-library",
+    "license": "The MIT License",
+    "require": {
+        "php": ">=5.3.0"
+    }
 }
