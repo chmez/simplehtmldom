@@ -4,7 +4,7 @@
     "keywords": ["simple_html_dom", "parser"],
     "homepage" : "http://simplehtmldom.sourceforge.net/",
     "type": "drupal-library",
-    "license": "The MIT License",
+    "license": "MIT",
     "require": {
         "php": ">=5.3.0"
     }
